@@ -87,10 +87,12 @@ Selects the average duration of all reservations.
 ## [most_visited_cities.sql](/1_queries/most_visited_cities.sql)
 Get a list of the most visited cities.
 
-## [property_listings_by_city.sql] (/1_queries/most_visited_cities.sql)
+## [property_listings_by_city.sql] (/1_queries/property_listings_by_city.sql)
 Show specific details about properties located in Vancouver including their average rating.
 
 ## [user_login.sql](/1_queries/user_login.sql)
+Get details about a single user.
+
 
 
 
