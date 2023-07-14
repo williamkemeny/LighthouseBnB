@@ -67,7 +67,9 @@ start project by running:
 
 Then run schema.sql:
 1. \i migrations/01_schema.sql
-This creates tables lightbnb.
+This creates tables lighting.
+2. \i seeds/02_seeds.sql
+populate the database
 
 # Run the project
 1. In LighBnB_WebApp-master
