@@ -78,3 +78,19 @@ This creates tables lightbnb.
 - Node 5.10.x or above
 
 # Sample Quaries
+## [all_reservations_by_user.sql](/1_queries/all_reservations_by_user.sql)
+Shows all past reservations for a user; in this case user with users.id = 1.
+
+## [avg_reservation.sql](/1_queries/avg_reservation.sql)
+Selects the average duration of all reservations.
+
+## [most_visited_cities.sql](/1_queries/most_visited_cities.sql)
+Get a list of the most visited cities.
+
+## [property_listings_by_city.sql] (/1_queries/most_visited_cities.sql)
+Show specific details about properties located in Vancouver including their average rating.
+
+## [user_login.sql](/1_queries/user_login.sql)
+
+
+
