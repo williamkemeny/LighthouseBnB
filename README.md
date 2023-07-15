@@ -74,7 +74,8 @@ populate the database
 # Run the project
 1. In LighBnB_WebApp-master
 2. npm i
-3. npm run start
+3. npm run start\
+4. Search http://localhost:3000/ in browser
 
 # Dependencies
 - Node 5.10.x or above
